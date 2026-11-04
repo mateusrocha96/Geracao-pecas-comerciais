@@ -1,0 +1,18 @@
+# Código e materiais internos (não são públicos)
+*.html
+*.js
+*.css
+fonte/
+
+# Documentos e imagens que podem conter dados de clientes
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.xlsx
+*.csv
+*.zip
+
+# Arquivos do Windows
+Thumbs.db
+desktop.ini
